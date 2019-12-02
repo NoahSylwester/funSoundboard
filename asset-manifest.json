@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/funSoundboard/static/css/main.df7e1a4a.chunk.css",
+    "main.js": "/funSoundboard/static/js/main.e80544f3.chunk.js",
+    "main.js.map": "/funSoundboard/static/js/main.e80544f3.chunk.js.map",
+    "runtime-main.js": "/funSoundboard/static/js/runtime-main.4524b7e6.js",
+    "runtime-main.js.map": "/funSoundboard/static/js/runtime-main.4524b7e6.js.map",
+    "static/js/2.e901a7ab.chunk.js": "/funSoundboard/static/js/2.e901a7ab.chunk.js",
+    "static/js/2.e901a7ab.chunk.js.map": "/funSoundboard/static/js/2.e901a7ab.chunk.js.map",
+    "index.html": "/funSoundboard/index.html",
+    "precache-manifest.07b706e0a334a28a04da5d4b8e10eef0.js": "/funSoundboard/precache-manifest.07b706e0a334a28a04da5d4b8e10eef0.js",
+    "service-worker.js": "/funSoundboard/service-worker.js",
+    "static/css/main.df7e1a4a.chunk.css.map": "/funSoundboard/static/css/main.df7e1a4a.chunk.css.map",
+    "static/media/160907__raccoonanimator__cue-scratch.wav": "/funSoundboard/static/media/160907__raccoonanimator__cue-scratch.fe88352c.wav",
+    "static/media/1_person_cheering-Jett_Rifkin-1851518140.mp3": "/funSoundboard/static/media/1_person_cheering-Jett_Rifkin-1851518140.c597f127.mp3",
+    "static/media/341695__projectsu012__coins-1.wav": "/funSoundboard/static/media/341695__projectsu012__coins-1.4a4fff94.wav",
+    "static/media/371562__kinoton__sitcom-laughter-with-applause-small-audience.wav": "/funSoundboard/static/media/371562__kinoton__sitcom-laughter-with-applause-small-audience.9728a1c6.wav",
+    "static/media/392180__kirmm__battle-horn-1.wav": "/funSoundboard/static/media/392180__kirmm__battle-horn-1.651de925.wav",
+    "static/media/414208__jacksonacademyashmore__airhorn.wav": "/funSoundboard/static/media/414208__jacksonacademyashmore__airhorn.8fb4c35a.wav",
+    "static/media/440116__processaurus__s-short-applause.wav": "/funSoundboard/static/media/440116__processaurus__s-short-applause.6882998c.wav",
+    "static/media/64940__syna-max__wilhelm-scream.wav": "/funSoundboard/static/media/64940__syna-max__wilhelm-scream.6c632c3a.wav",
+    "static/media/76061__digifishmusic__dramatic5.wav": "/funSoundboard/static/media/76061__digifishmusic__dramatic5.569a1581.wav",
+    "static/media/Cricket-chirp-in-the-night.mp3": "/funSoundboard/static/media/Cricket-chirp-in-the-night.ec0826b6.mp3",
+    "static/media/Deer-call-sound.mp3": "/funSoundboard/static/media/Deer-call-sound.7f6c3ed6.mp3",
+    "static/media/Fart-Common-Everyday-Fart_Mike-Koenig.mp3": "/funSoundboard/static/media/Fart-Common-Everyday-Fart_Mike-Koenig.7341877e.mp3",
+    "static/media/cartoon-xylophone-gliss.mp3": "/funSoundboard/static/media/cartoon-xylophone-gliss.f851c5fe.mp3",
+    "static/media/logo.svg": "/funSoundboard/static/media/logo.25bf045c.svg",
+    "static/media/piano-sound.mp3": "/funSoundboard/static/media/piano-sound.b1dff40f.mp3",
+    "static/media/rimshot-sound.mp3": "/funSoundboard/static/media/rimshot-sound.279c3905.mp3",
+    "static/media/tolling-bell_daniel-simion.mp3": "/funSoundboard/static/media/tolling-bell_daniel-simion.93fe1910.mp3",
+    "static/media/wah-wah-wah-sound-effect.mp3": "/funSoundboard/static/media/wah-wah-wah-sound-effect.44afdfdc.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4524b7e6.js",
+    "static/js/2.e901a7ab.chunk.js",
+    "static/css/main.df7e1a4a.chunk.css",
+    "static/js/main.e80544f3.chunk.js"
+  ]
+}
